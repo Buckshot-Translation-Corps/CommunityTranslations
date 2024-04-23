@@ -1,0 +1,19 @@
+  name: new_translation
+  on: create
+  jobs:
+    copy-template:
+      runs-on: ubuntu-latest
+
+      steps:
+        - uses: actions/checkout@v4
+        - uses: canastro/copy-file-action@master
+          with:
+            source: "translations/EN.csv"
+            target: "EDIT_ME.csv"
+        - uses: EndBug/add-and-commit@v9 # You can change this to use a specific version.
+          with:
+            add: 'EDIT_ME.csv'
+            author_name: Automated Workflow
+            author_email: workflow@github.com
+            message: 'Started new translation.'
+            push: true
