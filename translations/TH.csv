@@ -1,0 +1,135 @@
+keys,th
+THAI,ไทย
+START,เริ่ม
+OPTIONS,การตั้งค่า
+CREDITS,เครดิต
+EXIT,ออก
+HOLD TO EXIT,กด '%s' ค้างเพื่อออก...
+AUDIO/VIDEO,เสียง/วิดีโอ
+CONTROLLER,การควบคุม
+OPTIONS LANGUAGE,ภาษา
+NAVIGATE UP,ขยับขึ้น
+NAVIGATE DOWN,ขยับลง
+NAVIGATE LEFT,ขยับซ้าย
+NAVIGATE RIGHT,ขยับขวา
+RESTART,เริ่มต้นใหม่
+BACK,ย้อนกลับ
+EXIT BUTTON,ออกจากเกม
+SELECT,เลือก
+REBINDING,ตั้งปุ่มการควบคุม
+KEY IN USE,มีปุ่มที่กำหนดไว้อยู่แล้วสำหรับ %s คุณต้องการที่จะเขียนทับหรือไม่?
+PRESS ANY BUTTON REMAP,กดปุ่มใดก็ได้
+RESET KEYBINDS,รีเซ็ตปุ่มลัด
+SELECT DEVICE,เลือกอุปกรณ์
+,
+RETURN,ย้อนกลับ
+MAIN CREDITS,"โค้ด,ภาพอาร์ต,และเพลงประกอบ โดย MIKE KLUBNIKA
+ได้รับแรงบันดาลใจจากผลงานของ DANIEL MULLINS
+
+""BLOODSPLATTER FX PACK"" โดย MIA ROSADO 
+ได้รับอนุญาตภายใต้ครีเอทีฟคอมมอนส์ 
+สิทธิ์การใช้งาน 4.0
+
+ผู้ทดสอบเล่น โดย NICK, POPSTIONIA, 
+EKU และ PATHHEHYRULER
+
+ขอบคุณสำหรับการเล่น"
+INTERACT WITH,โต้ตอบกับ
+CONSUME,กินยาไหม?
+DEALER,เจ้ามือ
+YOU,คุณ
+YES,ใช่
+NO,ไม่
+DOUBLE,"DOUBLE OR
+NOTHING?"
+WAIVER,กรุณาเซ็นสัญญาด้วยครับ
+WELCOME,ยินดีต้อนรับกลับมาครับ
+YOURE LUCKY,"คุณโชคดีมากนะ 
+ที่พวกเรายังมีที่ปั้มหัวใจเหลืออยู่"
+GET UP,ลุกขึ้นมา %s!
+THE NIGHT,ค่ำคืนนี้ยังอีกยาวไกล
+SHELL INSERT1,"ผมจะใส่กระสุน
+เข้าไปแบบสุ่ม"
+SHELL INSERT2,"พวกมันอยู่ในช่องใส่กระสุน
+ตามลำดับที่ซ่อนเอาไว้"
+LIVEROUND,%s กระสุนจริง
+LIVEROUNDS,%s กระสุนจริง
+BLANKROUND,%s กระสุนว่าง
+BLANKROUNDS,%s กระสุนว่าง
+ITEMS EACH,หยิบของคนละ %s ชิ้น
+MORE ITEMS,"ทุกครั้งก่อนจะใส่กระสุน
+จะได้รับของมากขึ้น"
+NO SPACE,ไม่มีพื้นที่เหลือแล้ว
+UNFORTUNATE,ช่างน่าเสียดายเหลือเกิน
+MORE INTERESTING,"มาทำให้มัน
+ดูน่าสนใจมากกว่านี้กันดีกว่า"
+INTERESTING,น่าสนใจดีนี่...
+CAREFUL,ระวังให้มากกว่านี้ล่ะ...
+,
+SHOTGUN,ปืนลูกซอง
+SHOTGUN DESC,"ยิงตัวเองด้วยกระสุนว่าง
+เพื่อข้ามตาของเจ้ามือ"
+HANDCUFFS,กุญแจมือ
+HANDCUFFS DESC,เจ้ามือจะถูกข้ามตาถัดไป
+BEER,เบียร์
+BEER DESC,"วางปืนลูกซอง
+แล้วดีดกระสุนปัจจุบันออก"
+HANDSAW,เลื่อยมือ
+HANDSAW DESC,ปืนลูกซองจะสร้างความเสียหาย 2 ดาเมจ
+CIGARETTE,ซองบุหรี่
+CIGARETTE DESC,"คลายเครียดสักหน่อย
+ได้รับคืน 1 ชาร์จ"
+MAGNIFIER,แว่นขยาย
+MAGNIFIER DESC,"ตรวจสอบรอบปัจุบัน
+ของช่องใส่กระสุน"
+INVERTER,อินเวอร์เตอร์
+INVERTER DESC,"สลับขั้วของกระสุน
+ในช่องใส่กระสุนปัจจุบัน"
+ADRENALINE,อะดรีนาลีน
+ADRENALINE DESC,"ขโมยของ
+และใช้มันในทันที"
+MEDICINE,ยาหมดอายุ
+MEDICINE DESC,"โอกาส 50% ที่จะได้ 2 ชาร์จกลับคืนมา
+ถ้าไม่ จะเสีย 1 ชาร์จไป"
+PHONE,มือถือที่ถูกเผาไหม้
+PHONE DESC,"เสียงปริศนาลึกลับ
+ที่จะทำนายอนาคตให้แก่คุณ"
+,
+SEQUENCE2,กระสุนที่สอง...
+SEQUENCE3,กระสุนที่สาม...
+SEQUENCE4,กระสุนที่สี่...
+SEQUENCE5,กระสุนที่ห้า...
+SEQUENCE6,กระสุนที่หก...
+SEQUENCE7,กระสุนที่เจ็ด...
+PLAYERWIN,%s ชนะ!
+FINAL SHOW1,"ในที่สุด พวกเราก็มาถึง
+การประลองครั้งสุดท้ายกันแล้ว"
+FINAL SHOW2,"ไม่มีเครื่องกระตุ้นหัวใจ
+และไม่มีการถ่ายเลือดอีกต่อไป"
+FINAL SHOW3,"แกกับฉัน พวกเรามาเต้นรำ
+บนสังเวียนแห่งความเป็นและความตายกันเถอะ"
+ARE YOU READY,แกพร้อมรึยัง?
+DRILL,คงรู้อยู่แล้วสินะ
+CONGRATULATIONS,ยินดีด้วย %s!
+SHOTS FIRED,ยิงโดนไปแล้ว
+SHELLS EJECTED,โดนยิงไปแล้ว
+DOORS KICKED,เตะประตูไปแล้ว
+CIGS SMOKED,สูบบุหรี่ไปแล้ว
+ROUNDS BEAT,ชนะไปทั้งหมด
+ML DRANK,ดื่มเบียร์ไปทั้งหมด
+TOTAL CASH,ยอดเงินที่ได้ทั้งหมด:
+PRESS ANY KEY,กดปุ่มใดก็ได้เพื่อออก
+DEAD,คุณตายแล้ว
+RETRY,เริ่มใหม่
+BETTER NOT,"ผมหวังว่า
+จะไม่เจอคุณอีกนะครับ"
+DOUBLE UNLOCK,"""DOUBLE OR NOTHING"" ปลดล็อคแล้ว!"
+IMPAIR,อาจทำให้ความสามารถในการขับขี่ของคุณลดลง
+,
+ATTRIBUTION SPECIAL THANKS,"ขอบคุณเป็นพิเศษ
+
+Hürcan ‘horrorvisuals’ Köse
+Turtle Pals Tapes
+1jem - OpenGL ซัพพอร์ต
+nicolith"
+COLORBLIND_MODE,โหมดตาบอดสี
